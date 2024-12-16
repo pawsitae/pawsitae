@@ -63,13 +63,15 @@
 <p>
   <img align="center" src="https://streak-stats.demolab.com/?user=pawsitae&theme=radical" alt="pawsitae" />
 </p>
+
 ### 🌟 Highlight Projects:
 - 🏆 **Tokenomics Dashboard**: A tool to visualize token flow and staking mechanisms.  
 - 🧩 **Blockchain Analytics Toolkit**: Python-based analysis for blockchain trends.
-<p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pawsitae&show_icons=true&locale=en&layout=compact" alt="pawsitae" /> </p>
+
+
+
 ### 📝 Recent Articles:
 - 💡 [5 Trends Shaping Tokenomics](https://medium.com/@swelogy)  
 - 🔍 [Understanding Blockchain Analytics](https://medium.com/@swelogy) 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pawsitae&show_icons=true&locale=en" alt="pawsitae" /></p>
